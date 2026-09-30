@@ -4,12 +4,11 @@ import json
 import re
 import sys
 from pathlib import Path
-from urllib.parse import urlsplit
 
 
 ROOT = Path(__file__).resolve().parents[1]
 CATEGORIES = {"anime_official", "anime_episode_checked", "radio_segment", "fan_name"}
-REQUIRED = {"id", "text", "speaker", "category", "source"}
+REQUIRED = {"id", "text", "speaker", "category"}
 OPTIONAL = {"lines", "episode", "context"}
 
 
@@ -46,12 +45,6 @@ def main():
             check("episode" not in item, f"{prefix}.episode: only for episode-checked dialogue")
         if "context" in item:
             check(isinstance(item["context"], str) and 0 < len(item["context"]) <= 200, f"{prefix}.context: invalid string")
-        source = item["source"]
-        check(isinstance(source, dict) and set(source) == {"label", "url"}, f"{prefix}.source: invalid fields")
-        check(isinstance(source["label"], str) and bool(source["label"].strip()), f"{prefix}.source.label: invalid string")
-        check(isinstance(source["url"], str), f"{prefix}.source.url: invalid string")
-        url = urlsplit(source["url"])
-        check(url.scheme == "https" and bool(url.hostname) and not url.username and not url.password, f"{prefix}.source.url: HTTPS URL required")
     print(f"Validated {len(data)} quotes")
 
 

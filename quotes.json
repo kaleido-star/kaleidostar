@@ -9,21 +9,13 @@
       "やらずに出来たら超ラッキー！",
       "やるとなったらやるしかない！",
       "ない！ない！！"
-    ],
-    "source": {
-      "label": "GONZO 公式掲載",
-      "url": "https://www.gonzo.co.jp/archives/kaleido-star/kaleido/sora.html"
-    }
+    ]
   },
   {
     "id": "where",
     "text": "何処見てるんですかーっ！",
     "speaker": "苗木野そら",
-    "category": "anime_official",
-    "source": {
-      "label": "GONZO 公式掲載",
-      "url": "https://www.gonzo.co.jp/archives/kaleido-star/events/events.html"
-    }
+    "category": "anime_official"
   },
   {
     "id": "alone",
@@ -33,11 +25,7 @@
     "lines": [
       "いいわよっ！",
       "一人でやってやる！"
-    ],
-    "source": {
-      "label": "GONZO 公式掲載",
-      "url": "https://www.gonzo.co.jp/archives/kaleido-star/events/events.html"
-    }
+    ]
   },
   {
     "id": "kenneth-adventure",
@@ -47,72 +35,44 @@
     "lines": [
       "冒険を恐れる者は",
       "人の後ろを歩くしかないぞ、小僧"
-    ],
-    "source": {
-      "label": "GONZO 公式掲載",
-      "url": "https://www.gonzo.co.jp/archives/kaleido-star/report/report0404.html"
-    }
+    ]
   },
   {
     "id": "rosetta-diabolo",
     "text": "私、そらと私の２人のディアボロ観てみたい！",
     "speaker": "ロゼッタ・パッセル",
-    "category": "anime_official",
-    "source": {
-      "label": "GONZO 公式掲載",
-      "url": "https://www.gonzo.co.jp/archives/kaleido-star/kaleido/rosetta.html"
-    }
+    "category": "anime_official"
   },
   {
     "id": "rosetta-repay",
     "text": "そらにはいっぱい恩返ししなくちゃ",
     "speaker": "ロゼッタ・パッセル",
-    "category": "anime_official",
-    "source": {
-      "label": "GONZO 公式掲載",
-      "url": "https://www.gonzo.co.jp/archives/kaleido-star/kaleido/rosetta.html"
-    }
+    "category": "anime_official"
   },
   {
     "id": "leon-promise",
     "text": "俺は約束はしない",
     "speaker": "レオン・オズワルド",
-    "category": "anime_official",
-    "source": {
-      "label": "GONZO 公式掲載",
-      "url": "https://www.gonzo.co.jp/archives/kaleido-star/kaleido/leon.html"
-    }
+    "category": "anime_official"
   },
   {
     "id": "my-pillbug",
     "text": "私のダンゴムシになってよ",
     "speaker": "そらとレイラの すごい ○○",
-    "category": "radio_segment",
-    "source": {
-      "label": "すごラジ第1回への言及",
-      "url": "https://note.com/torov/n/nc1ef599cdc4d"
-    }
+    "category": "radio_segment"
   },
   {
     "id": "kaleido-baka",
     "text": "カレイド馬鹿",
     "speaker": "カレイドスターサポーターズクラブ",
-    "category": "fan_name",
-    "source": {
-      "label": "GONZO 公式サイト",
-      "url": "https://www.gonzo.co.jp/archives/kaleido-star/kaleido/news.html"
-    }
+    "category": "fan_name"
   },
   {
     "id": "rival",
     "text": "あなたが、本当の敵に見えてきたわ",
     "speaker": "レイラ・ハミルトン",
     "category": "anime_episode_checked",
-    "episode": 13,
-    "source": {
-      "label": "RENOTE の作品紹介",
-      "url": "https://renote.net/articles/58129/page/7"
-    }
+    "episode": 13
   },
   {
     "id": "last-stage",
@@ -123,22 +83,14 @@
       "私が望まない限り、",
       "私のラストステージはやってこない。"
     ],
-    "episode": 18,
-    "source": {
-      "label": "RENOTE の作品紹介",
-      "url": "https://renote.net/articles/58129/page/7"
-    }
+    "episode": 18
   },
   {
     "id": "this-stage",
     "text": "今ここは私のステージ。",
     "speaker": "苗木野そら",
     "category": "anime_episode_checked",
-    "episode": 43,
-    "source": {
-      "label": "RENOTE の作品紹介",
-      "url": "https://renote.net/articles/58129/page/7"
-    }
+    "episode": 43
   },
   {
     "id": "pride",
@@ -149,11 +101,7 @@
       "あなたは、",
       "私の誇りよ"
     ],
-    "episode": 51,
-    "source": {
-      "label": "RENOTE の作品紹介",
-      "url": "https://renote.net/articles/58129/page/7"
-    }
+    "episode": 51
   },
   {
     "id": "support",
@@ -166,22 +114,14 @@
       "みんなに少しでも",
       "楽しんでもらえたら。"
     ],
-    "episode": 3,
-    "source": {
-      "label": "レビューンアニメの名言欄",
-      "url": "https://reviewne.jp/contents/10629"
-    }
+    "episode": 3
   },
   {
     "id": "best-performance",
     "text": "最高の演技をみせなさい。",
     "speaker": "レイラ・ハミルトン",
     "category": "anime_episode_checked",
-    "episode": 5,
-    "source": {
-      "label": "レビューンアニメの名言欄",
-      "url": "https://reviewne.jp/contents/10629"
-    }
+    "episode": 5
   },
   {
     "id": "make-a-role",
@@ -192,22 +132,14 @@
       "自分の道を作るってことは、",
       "自分の役を作るっていうこと。"
     ],
-    "episode": 3,
-    "source": {
-      "label": "レビューンアニメの名言欄",
-      "url": "https://reviewne.jp/contents/10629"
-    }
+    "episode": 3
   },
   {
     "id": "be-my-dream",
     "text": "私の夢になってよ、そら。",
     "speaker": "レイラ・ハミルトン",
     "category": "anime_episode_checked",
-    "episode": 26,
-    "source": {
-      "label": "視聴記録・考察（note）",
-      "url": "https://note.com/miyaso24/n/n88b29bca8f04"
-    }
+    "episode": 26
   },
   {
     "id": "you-can",
@@ -218,11 +150,7 @@
       "あなたならなれるわ、",
       "真のカレイドスターに。"
     ],
-    "episode": 26,
-    "source": {
-      "label": "視聴記録・考察（note）",
-      "url": "https://note.com/miyaso24/n/n88b29bca8f04"
-    }
+    "episode": 26
   },
   {
     "id": "no-rivalry",
@@ -233,11 +161,7 @@
       "争うのが嫌なら、",
       "そういうステージを作ればいいんじゃない？"
     ],
-    "episode": 40,
-    "source": {
-      "label": "視聴記録・考察（note）",
-      "url": "https://note.com/miyaso24/n/n88b29bca8f04"
-    }
+    "episode": 40
   },
   {
     "id": "your-stage",
@@ -248,11 +172,7 @@
       "明るくて楽しいそらのステージ。",
       "僕はもっと見てみたいよ。"
     ],
-    "episode": 40,
-    "source": {
-      "label": "視聴記録・考察（note）",
-      "url": "https://note.com/miyaso24/n/n88b29bca8f04"
-    }
+    "episode": 40
   },
   {
     "id": "keep-dreaming",
@@ -260,22 +180,14 @@
     "speaker": "レイラ・ハミルトン",
     "category": "anime_episode_checked",
     "episode": 40,
-    "context": "第40話の回想。元の発言話数は未特定。",
-    "source": {
-      "label": "視聴記録・考察（note）",
-      "url": "https://note.com/miyaso24/n/n88b29bca8f04"
-    }
+    "context": "第40話の回想。元の発言話数は未特定。"
   },
   {
     "id": "my-way",
     "text": "それしか私の進む道はありません。",
     "speaker": "苗木野そら",
     "category": "anime_episode_checked",
-    "episode": 44,
-    "source": {
-      "label": "視聴記録・考察（note）",
-      "url": "https://note.com/miyaso24/n/n88b29bca8f04"
-    }
+    "episode": 44
   },
   {
     "id": "believe-way",
@@ -286,22 +198,14 @@
       "そらがそう決めたのなら、",
       "自分で信じる道を行きなさい。"
     ],
-    "episode": 44,
-    "source": {
-      "label": "視聴記録・考察（note）",
-      "url": "https://note.com/miyaso24/n/n88b29bca8f04"
-    }
+    "episode": 44
   },
   {
     "id": "take-way",
     "text": "私はこの道を行く。",
     "speaker": "苗木野そら",
     "category": "anime_episode_checked",
-    "episode": 45,
-    "source": {
-      "label": "視聴記録・考察（note）",
-      "url": "https://note.com/miyaso24/n/n88b29bca8f04"
-    }
+    "episode": 45
   },
   {
     "id": "no-matter-how-long",
@@ -312,44 +216,28 @@
       "どんなに時間がかかっても、",
       "私は真のカレイドスターになる。"
     ],
-    "episode": 45,
-    "source": {
-      "label": "視聴記録・考察（note）",
-      "url": "https://note.com/miyaso24/n/n88b29bca8f04"
-    }
+    "episode": 45
   },
   {
     "id": "believe-angel",
     "text": "私は私の中の天使を信じる。",
     "speaker": "苗木野そら",
     "category": "anime_episode_checked",
-    "episode": 47,
-    "source": {
-      "label": "視聴記録・考察（note）",
-      "url": "https://note.com/miyaso24/n/n88b29bca8f04"
-    }
+    "episode": 47
   },
   {
     "id": "excited",
     "text": "こんなにワクワクするの久しぶり。",
     "speaker": "苗木野そら",
     "category": "anime_episode_checked",
-    "episode": 50,
-    "source": {
-      "label": "視聴記録・考察（note）",
-      "url": "https://note.com/miyaso24/n/n88b29bca8f04"
-    }
+    "episode": 50
   },
   {
     "id": "congratulations",
     "text": "おめでとう、そら。",
     "speaker": "レイラ・ハミルトン",
     "category": "anime_episode_checked",
-    "episode": 50,
-    "source": {
-      "label": "視聴記録・考察（note）",
-      "url": "https://note.com/miyaso24/n/n88b29bca8f04"
-    }
+    "episode": 50
   },
   {
     "id": "dreamers",
@@ -359,10 +247,6 @@
     "lines": [
       "誰も目指さぬ夢を追った愚か者を待つのは…",
       "嘲りか…喝采か"
-    ],
-    "source": {
-      "label": "GONZO 公式掲載",
-      "url": "https://www.gonzo.co.jp/archives/kaleido-star/report/report0404.html"
-    }
+    ]
   }
 ]
